@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Dados"
+    }
+  },
+  "defaultProject": "Dados",
+  "cli": {
+    "analytics": false
+  }
 }
